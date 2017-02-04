@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "dealsOnlineIndia",
+    "description": "Lists all the offers of the day from flipkart, Snapdeal."
+  },
+  "appDescription": {
+    "message": "Lists all the offers of the day from flipkart, Snapdeal.",
+    "description": "Shows all the offers present in flipkart and Snapdeal , You can compare prices of an product in other stores ."
+  }
+}
